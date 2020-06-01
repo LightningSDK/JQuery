@@ -1,0 +1,7 @@
+{
+  "name": "macdabby/Lightning-JQuery",
+  "version": "3.5.1.0",
+  "require": {
+    "components/jquery": "^3.5"
+  }
+}
