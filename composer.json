@@ -2,7 +2,7 @@
   "name": "macdabby/lightning-jquery",
   "type": "library",
   "description": "Adds JQuery script inclusion.",
-  "version": "3.5.1.0",
+  "version": "3.5.0",
   "require": {
     "components/jquery": "^3.5"
   }
