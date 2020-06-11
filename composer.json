@@ -1,5 +1,5 @@
 {
-  "name": "macdabby/lightning-jquery",
+  "name": "lightningsdk/jquery",
   "type": "library",
   "description": "Adds JQuery script inclusion.",
   "version": "3.5.0",
